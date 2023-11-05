@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about building a thin website that will set out all my favourite recipes of all my favourite foods from around the world! Enjoy!
